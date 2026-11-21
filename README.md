@@ -5,7 +5,7 @@ choisis combien de téléchargements à la fois, et suis chaque fichier (progres
 
 ## Télécharger
 
-1. Ouvre la [dernière version](https://github.com/XDTEAMDev/XDK-TeleMulti-releases/releases/latest).
+1. Ouvre la [dernière version](https://github.com/xavstream/XDK-TeleMulti-releases/releases/latest).
 2. Télécharge **`XDKTeleMulti.exe`** (le fichier `.sig` à côté sert seulement à vérifier les mises à jour).
 3. Lance-le.
 
